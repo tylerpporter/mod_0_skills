@@ -1,0 +1,13 @@
+Object: Cheese Cake
+
+Attributes:
+price = 9.00
+calories = 1000
+flavor = "Chocolate"
+is_gluten_free = (false)
+
+Methods:
+increase_price: price = 10.00
+no_whip: calories = 900
+change_flavor: flavor = "Vanilla"
+remove_gluten: is_gluten_free = (true)
