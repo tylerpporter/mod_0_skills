@@ -8,6 +8,6 @@ size (string)
 
 Methods:
 change_color (changes the color attribute)
-wash_dish (changes the is_clean attribute to true)
+wash_dish (changes the is_clean attribute)
 purchase (increases the quantity attribute by 1)
 change_size (changes the size attribute)
