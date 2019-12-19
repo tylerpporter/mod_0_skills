@@ -1,14 +1,14 @@
-Class: Tables
+Class: Dessert
 
 Attributes:
-number_available (integer)
-near_window (boolean)
-number_of_chairs (integer)
-table_finish (string)
+price (float)
+calories (integer)
+flavor (string)
+is_gluten_free (boolean)
 
 
 Methods:
-get_busy (reduces the number_available attribute by 1)
-move (changes the near_window attribute)
-add_chair (increases the number_of_chairs attribute by 1)
-change_table_finish (changes the table_finish attribute)
+increase_price (increases the price attribute by 1.00)
+no_whip (decreases the calories attribute by 100)
+change_flavor (changes the flavor attribute)
+remove_gluten (changes the is_gluten_free attribute to true)
