@@ -1,0 +1,13 @@
+Object: Dinner Plate
+
+Attributes:
+color = "Blue"
+is_clean = (false)
+quantity = 60
+size = "Medium"
+
+Methods:
+change_color: color = "Green"
+wash_dish: is_clean = (true)
+purchase: quantity = 61
+change_size: size = "Large"
