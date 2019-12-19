@@ -1,0 +1,30 @@
+Becoming a Turing Student
+
+1 Research coding bootcamps
+  1.1 Google search "top coding bootcamps"
+    1.1.1 Turn on computer
+    1.1.2 Open Chrome
+    1.1.3 Use keyboard to type
+  1.2 Read reviews for top results
+    1.2.1 Click star symbols underneath google listing
+2 Select Turing School
+3 Apply to Turing
+  3.1 Go to Turing.io
+    3.1.1 Type "turing.io" into web browser
+  3.2 Click the Apply Now button
+    3.2.1 Scroll to bottom of page
+      3.2.1.1 Roll mouse wheel down
+    3.2.2 Hover mouse over Apply Now button
+  3.3 Fill out application form
+    3.3.1 Type your name
+      3.3.1.1 Click into the open name box
+    3.3.2 Type your email address
+      3.3.2.1 Click into the open email address box
+4 Get accepted to Turing
+  4.1 Pass initial test
+    4.1.1 Take initial test
+  4.2 Pass interview round
+    4.2.1 Set up interview
+      4.2.1.1 Determine in-person or remote
+      4.2.1.2 Schedule day/time
+    4.2.2 Attend interview
