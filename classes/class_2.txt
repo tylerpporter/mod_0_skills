@@ -1,0 +1,14 @@
+Class: Tables
+
+Attributes:
+number_available (integer)
+near_window (boolean)
+number_of_chairs (integer)
+table_finish (string)
+
+
+Methods:
+get_busy (reduces the number_available attribute by 1)
+move (changes the near_window attribute)
+add_chair (increases the number_of_chairs attribute by 1)
+change_table_finish (changes the table_finish attribute)
